@@ -3,7 +3,7 @@
 ## Fullstack Todo App with Vuejs 3 & Nodejs & Express & Mongodb Database
 
 ### Install npm
-cd server </br>
+cd server / 
 cd client </br>
 npm install </br>
 ### Run Server Side
